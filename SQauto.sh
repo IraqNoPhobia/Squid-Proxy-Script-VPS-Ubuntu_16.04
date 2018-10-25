@@ -1,4 +1,3 @@
-@@ -0,0 +1,44 @@
 #!/bin/bash
 
 if cat /etc/os-release | grep PRETTY_NAME | grep "Ubuntu 16.04"; then
